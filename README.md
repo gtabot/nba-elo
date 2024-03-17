@@ -1,5 +1,5 @@
 # NBA Elo Project
-This code base extends on the work originally started by [FiveThirtyEight's](https://abcnews.go.com/538) [The Complete History of the NBA](https://projects.fivethirtyeight.com/complete-history-of-the-nba/) but was frozen as of June 21, 2023, and is no longer updated.
+This code base extends on the work originally started by [FiveThirtyEight's](https://abcnews.go.com/538) [The Complete History of the NBA](https://projects.fivethirtyeight.com/complete-history-of-the-nba/).
 
 ## Elo Rating System
 The [Elo rating system](https://en.wikipedia.org/wiki/Elo_rating_system) is not new and has been used to rank chess players for decades. In 2015, [Nate Silver](https://en.wikipedia.org/wiki/Nate_Silver) adapted the Elo formula [for use in the NBA](https://fivethirtyeight.com/features/how-we-calculate-nba-elo-ratings/). The blog [ergosum.co](https://www.ergosum.co/) has a great [post](https://www.ergosum.co/nate-silvers-nba-elo-algorithm/) detailing the specific parameters Silver uses for his NBA calculcations.
